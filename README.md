@@ -1,5 +1,7 @@
 # prismarine-windows
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PrismarineJS/prismarine-windows.svg)](https://greenkeeper.io/)
+
 Represent minecraft windows
 
 ## Usage
